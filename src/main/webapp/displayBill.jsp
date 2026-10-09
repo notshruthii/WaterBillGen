@@ -8,7 +8,7 @@
 </head>
 <body>
 <%
-    WaterBillBean bill = (WaterBillBean) request.getAttribute("bill");
+    WaterBillBean bill = (WaterBillBean) request.getAttribute("waterBill");
 %>
 
 <h2>Water Bill Details</h2>
